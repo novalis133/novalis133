@@ -1,4 +1,4 @@
-# Hello, I'm  Novalis133👋
+# Hello, I'm Novalis133 👋
 
 ## 🚗 Senior AI & Machine Learning Engineer | Automotive Vision Systems Specialist
 
@@ -14,23 +14,25 @@ I'm a seasoned AI and Machine Learning Engineer with a passion for pushing the b
 ### 🛠️ Skills
 
 - Languages: Python, C++, Esterel, Lustre, Giotto, VHDL.
-- Frameworks & Libraries: PyTorch, TensorFlow, OpenCV, Sklearn, Keras, NumPy, SnnTorch, 
-- Tools: Docker, Git, [Other Tools You Use]
+- Frameworks & Libraries: PyTorch, TensorFlow, OpenCV, Sklearn, Keras, NumPy, SnnTorch.
+- Tools: Docker, Git, [Add Any Other Tools You Use]
 - Concepts: Deep Learning, Computer Vision, Image Processing, Data Analysis, Neurocomputing Applications.
 
 ### 📈 Projects
 
-
+[Add details or links to your notable projects here]
 
 ### 📫 How to Reach Me
 
-- LinkedIn: 
-- Email: 
-- 
+- LinkedIn: [Add your LinkedIn Profile URL]
+- Email: [Add your Email Address]
+- [Any Other Contact Method]
 
 ### ⭐ GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true)
+![Novalis133's GitHub stats](https://github-readme-stats.vercel.app/api?username=Novalis133&show_icons=true&theme=radical)
+![Visitor Count](https://profile-counter.glitch.me/Novalis133/count.svg)
+
 
 ---
 
