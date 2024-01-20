@@ -14,25 +14,35 @@ I'm a seasoned AI and Machine Learning Engineer with a passion for pushing the b
 ### 🛠️ Skills
 
 - Languages: Python, C++, Esterel, Lustre, Giotto, VHDL.
-- Frameworks & Libraries: PyTorch, TensorFlow, OpenCV, Sklearn, Keras, NumPy, SnnTorch.
-- Tools: Docker, Git, [Add Any Other Tools You Use]
+- Frameworks & Libraries: PyTorch, TensorFlow, OpenCV, Sklearn, Keras, NumPy, SnnTorch, CUDA, TensorRT.
+- Tools: Docker, Git, ROS, PCL.
 - Concepts: Deep Learning, Computer Vision, Image Processing, Data Analysis, Neurocomputing Applications.
 
-### 📈 Projects
+### ⭐ GitHub Stats
 
-[Add details or links to your notable projects here]
+![Novalis133's GitHub stats](https://github-readme-stats.vercel.app/api?username=Novalis133&show_icons=true&theme=radical)
+
+### 📊 Language Usage
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Novalis133&layout=compact)
+
+### 🔥 Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Novalis133)
+
+### 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Novalis133)
+
+### 📈 Activity Graph
+
+![Novalis133's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Novalis133&bg_color=000000&color=ffffff&line=0000ff&point=00ff00)
 
 ### 📫 How to Reach Me
 
 - LinkedIn: [Add your LinkedIn Profile URL]
 - Email: [Add your Email Address]
 - [Any Other Contact Method]
-
-### ⭐ GitHub Stats
-
-![Novalis133's GitHub stats](https://github-readme-stats.vercel.app/api?username=Novalis133&show_icons=true&theme=radical)
-![Visitor Count](https://profile-counter.glitch.me/Novalis133/count.svg)
-
 
 ---
 
