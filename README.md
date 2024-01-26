@@ -40,8 +40,8 @@ I'm a seasoned AI and Machine Learning Engineer with a passion for pushing the b
 
 ### 📫 How to Reach Me
 
-- LinkedIn(https://www.linkedin.com/in/osama-m-abdelaal-m-phil-5aa7ba1b3/
-- Twitter(@OsMo999)
+- [LinkedIn](https://www.linkedin.com/in/osama-m-abdelaal-m-phil-5aa7ba1b3/
+- Twitter: @OsMo999
 
 ---
 
