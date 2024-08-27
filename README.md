@@ -36,8 +36,7 @@ I'm a seasoned AI and Machine Learning Engineer with a passion for pushing the b
 
 ## 📈 My GitHub Activity Graph
 
-![Novalis133's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=novalis133&bg_color=000000&color=ffffff&line=0000ff&point=00ff00)
-
+![Novalis133's GitHub stats](https://github-readme-stats.vercel.app/api?username=Novalis133&show_icons=true&theme=dark)
 
 ### 📫 How to Reach Me
 
