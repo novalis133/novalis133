@@ -34,9 +34,10 @@ I'm a seasoned AI and Machine Learning Engineer with a passion for pushing the b
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Novalis133)
 
-### 📈 Activity Graph
+## 📈 My GitHub Activity Graph
 
-![Novalis133's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Novalis133&bg_color=000000&color=ffffff&line=0000ff&point=00ff00)
+![Novalis133's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Novalis133&bg_color=000000&color=ffffff&line=0000ff&point=00ff00)
+
 
 ### 📫 How to Reach Me
 
