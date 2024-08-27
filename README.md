@@ -2,7 +2,7 @@
 
 ## 🚗 Senior AI & Machine Learning Engineer | Automotive Vision Systems Specialist
 
-I'm a seasoned AI and Machine Learning Engineer with a passion for pushing the boundaries of automotive vision technology. I specialize in structured light depth estimation, multi-modalities, advanced object detection, and semantic segmentation.
+I'm a seasoned AI and Machine Learning Engineer with a passion for pushing the boundaries of automotive vision technology. I specialize in developing state-of-the-art AI algorithms and models with a focus on low-level implementation.
 
 ### 🌟 About Me
 
