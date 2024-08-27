@@ -36,7 +36,7 @@ I'm a seasoned AI and Machine Learning Engineer with a passion for pushing the b
 
 ## 📈 My GitHub Activity Graph
 
-[![Novalis133's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Novalis133&bg_color=000000&color=ffffff&line=00ff00&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Novalis133's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=novalis133&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/novalis133/github-readme-activity-graph)
 
 ### 📫 How to Reach Me
 
