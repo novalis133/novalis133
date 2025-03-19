@@ -1,22 +1,22 @@
 # Hello, I'm Novalis133 👋
 
-## 🚗 Senior AI & Machine Learning Engineer | Automotive Vision Systems Specialist
+## 🤖 Senior AI & Machine Learning Engineer | Innovator in AI Solutions
 
-I'm a seasoned AI and Machine Learning Engineer with a passion for pushing the boundaries of automotive vision technology. I specialize in developing state-of-the-art AI algorithms and models with a focus on low-level implementation.
+I'm a passionate AI and Machine Learning Engineer with over 5 years of experience developing cutting-edge AI models and PoC solutions. I specialize in bridging technical innovation with business needs, focusing on machine learning, computer vision, and generative systems.
 
 ### 🌟 About Me
 
-- 🤖 I’m currently working on enhancing smart vision systems for automotive safety and efficiency.
-- 💡 I specialize in implementing cutting-edge AI techniques in real-world applications.
-- 📚 I’m constantly learning and experimenting with new technologies in AI and machine learning.
-- 🤝 I’m looking to collaborate on projects that leverage AI for automotive innovations.
+- 🤖 I’m currently working on resource-efficient AI systems and 3D modeling solutions at GEMESYS Gmbh.  
+- 💡 I excel at designing PoCs that enhance scalability and efficiency, from concept to implementation.  
+- 📚 I’m always exploring new advancements in deep learning, neuromorphic computing, and AI applications.  
+- 🤝 I’m eager to collaborate on projects that leverage AI for real-world impact, including legal tech and automation.  
 
 ### 🛠️ Skills
 
-- Languages: Python, C++, Esterel, Lustre, Giotto, VHDL.
-- Frameworks & Libraries: PyTorch, TensorFlow, OpenCV, Sklearn, Keras, NumPy, SnnTorch, CUDA, TensorRT.
-- Tools: Docker, Git, ROS, PCL.
-- Concepts: Deep Learning, Computer Vision, Image Processing, Data Analysis, Neurocomputing Applications.
+- **Languages**: Python, C++  
+- **Frameworks & Libraries**: PyTorch, TensorFlow, Keras, OpenCV, NumPy, SnnTorch, Huggingface, Scikit-learn  
+- **Tools**: Docker, CUDA, Git, ROS, Pandas  
+- **Concepts**: Deep Learning, Computer Vision, Generative AI, NLP, Neuromorphic Computing, Business Analysis  
 
 ### ⭐ GitHub Stats
 
@@ -40,9 +40,12 @@ I'm a seasoned AI and Machine Learning Engineer with a passion for pushing the b
 
 ### 📫 How to Reach Me
 
-- [LinkedIn](https://www.linkedin.com/in/osama-m-abdelaal-m-phil-5aa7ba1b3/)
-- Twitter: @OsMo999
+- [LinkedIn](https://www.linkedin.com/in/osamat339669/)  
+- [Blog](https://medium.com/@osama1339669)  
+- Email: osama1339669@gmail.com  
 
 ---
 
-Feel free to browse my repositories and let's connect to explore potential collaborations in AI and automotive technology!
+Feel free to explore my repositories and connect with me to discuss AI-driven innovations and potential collaborations!
+
+---
