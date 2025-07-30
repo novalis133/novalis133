@@ -27,16 +27,15 @@ I'm a Senior AI & Machine Learning Engineer at GEMESYS Gmbh, specializing in res
 
 ### 📊 Project Impact Dashboard
 
-```chartjs
 {
   "type": "bar",
   "data": {
     "labels": ["3DReconAI", "LegalTextNLP", "SNNVision"],
     "datasets": [{
-      "label": "Impact (Performance Improvement %)",
+      "label": "Performance Gain (%)",
       "data": [40, 15, 20],
-      "backgroundColor": ["#4CAF50", "#2196F3", "#FF9800"],
-      "borderColor": ["#388E3C", "#1976D2", "#F57C00"],
+      "backgroundColor": ["#66BB6A", "#42A5F5", "#FFCA28"],
+      "borderColor": ["#4CAF50", "#1E88E5", "#FFB300"],
       "borderWidth": 1
     }]
   },
@@ -44,31 +43,51 @@ I'm a Senior AI & Machine Learning Engineer at GEMESYS Gmbh, specializing in res
     "scales": {
       "y": {
         "beginAtZero": true,
+        "grid": {
+          "display": true,
+          "color": "rgba(0, 0, 0, 0.1)"
+        },
         "title": {
           "display": true,
-          "text": "Performance Improvement (%)"
+          "text": "Gain (%)",
+          "font": {
+            "size": 14
+          }
         }
       },
       "x": {
+        "grid": {
+          "display": false
+        },
         "title": {
           "display": true,
-          "text": "Projects"
+          "text": "Projects",
+          "font": {
+            "size": 14
+          }
         }
       }
     },
     "plugins": {
       "legend": {
         "display": true,
-        "position": "top"
+        "position": "top",
+        "labels": {
+          "font": {
+            "size": 12
+          }
+        }
       },
       "title": {
         "display": true,
-        "text": "Impact of Key Projects"
+        "text": "Key Project Impact",
+        "font": {
+          "size": 16
+        }
       }
     }
   }
 }
-```
 
 ---
 
@@ -113,7 +132,6 @@ I'm a Senior AI & Machine Learning Engineer at GEMESYS Gmbh, specializing in res
 ---
 
 Feel free to explore my repositories and connect to discuss AI-driven innovations!
-```
 
 ### **Steps to Save as a File**:
 1. **On Your Computer**:
