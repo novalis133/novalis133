@@ -23,7 +23,6 @@ I'm a Senior AI & Machine Learning Engineer with over 5 years of experience in d
 
 | Project | Description | Tech Stack | Impact |
 |---------|-------------|------------|--------|
-
 | [Smart Vision Systems](https://github.com/Novalis133/distYolo.git) | Developed end-to-end AI pipelines for automotive vision using YOLO-World and Swin-Transformer. | PyTorch, Kafka, Docker | Enabled real-time detection on edge GPUs. |
 | [Multi-Agent DRL](https://github.com/Novalis133) | Designed transformer-based multi-agent reinforcement learning for industrial agents at TRUMPF. | PyTorch, CUDA, ROS | Achieved 20% faster task completion. |
 | [Accent Analyzer](https://github.com/Novalis133/accent_analyzer_project.git) | Built a Streamlit-based tool for English accent detection in videos. | Streamlit, Azure Speech, FFmpeg | Supported multiple platforms with high accuracy. |
