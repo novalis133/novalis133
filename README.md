@@ -21,11 +21,11 @@ I'm a Senior AI & Machine Learning Engineer with over 5 years of experience in d
 
 ## 🏆 Achievements
 
-| Project | Description | Tech Stack | Impact |
-|---------|-------------|------------|--------|
-| [Smart Vision Systems](https://github.com/Novalis133/distYolo.git) | Developed end-to-end AI pipelines for automotive vision using YOLO-World and Swin-Transformer. | PyTorch, Kafka, Docker | Enabled real-time detection on edge GPUs. |
-| [Multi-Agent DRL](https://github.com/Novalis133) | Designed transformer-based multi-agent reinforcement learning for industrial agents at TRUMPF. | PyTorch, CUDA, ROS | Achieved 20% faster task completion. |
-| [Accent Analyzer](https://github.com/Novalis133/accent_analyzer_project.git) | Built a Streamlit-based tool for English accent detection in videos. | Streamlit, Azure Speech, FFmpeg | Supported multiple platforms with high accuracy. |
+| Project | Description | Tech Stack | Impact | Performance Gain |
+|---------|-------------|------------|--------|------------------|
+| [Smart Vision Systems](https://github.com/Novalis133/distYolo.git) | Developed end-to-end AI pipelines for automotive vision using YOLO-World and Swin-Transformer. | PyTorch, Kafka, Docker | Enabled real-time detection on edge GPUs.| ![Smart Vision Gain](https://img.shields.io/badge/Smart_Vision-30%25-blue?labelColor=1976D2) |
+| [Multi-Agent DRL](https://github.com/Novalis133) | Designed transformer-based multi-agent reinforcement learning for industrial agents at TRUMPF. | PyTorch, CUDA, ROS | Achieved 20% faster task completion.| ![Multi-Agent DRL Gain](https://img.shields.io/badge/Multi--Agent_DRL-20%25-yellow?labelColor=FFB300) |
+| [Accent Analyzer](https://github.com/Novalis133/accent_analyzer_project.git) | Built a Streamlit-based tool for English accent detection in videos. | Streamlit, Azure Speech, FFmpeg | Supported multiple platforms with high accuracy.| ![Accent Analyzer Gain](https://img.shields.io/badge/Accent_Analyzer-25%25-red?labelColor=D32F2F) |
 
 **Open-Source Contributions**:
 - Contributed to [Huggingface Transformers](https://github.com/huggingface/transformers) (3 PRs merged).
@@ -52,76 +52,6 @@ I'm a Senior AI & Machine Learning Engineer with over 5 years of experience in d
   Developed EEG-based emotion decoding using generative models.
 - **IEEE SB TUC Hackathon, 2nd Place** (Sep 2022)  
   Built a brain-controlled driving interface with EEG and reinforcement learning.
-
----
-
-## 📊 Project Impact Dashboard
-
-*Note: This chart is designed for platforms supporting Chart.js. Update data to reflect actual project metrics.*
-
-```chartjs
-{
-  "type": "bar",
-  "data": {
-    "labels": ["Neuromorphic Optimization", "Smart Vision Systems", "Multi-Agent DRL", "Accent Analyzer"],
-    "datasets": [{
-      "label": "Performance Gain (%)",
-      "data": [50, 30, 20, 25],
-      "backgroundColor": ["#66BB6A", "#42A5F5", "#FFCA28", "#EF5350"],
-      "borderColor": ["#4CAF50", "#1E88E5", "#FFB300", "#D32F2F"],
-      "borderWidth": 1
-    }]
-  },
-  "options": {
-    "scales": {
-      "y": {
-        "beginAtZero": true,
-        "grid": {
-          "display": true,
-          "color": "rgba(0, 0, 0, 0.1)"
-        },
-        "title": {
-          "display": true,
-          "text": "Gain (%)",
-          "font": {
-            "size": 14
-          }
-        }
-      },
-      "x": {
-        "grid": {
-          "display": false
-        },
-        "title": {
-          "display": true,
-          "text": "Projects",
-          "font": {
-            "size": 14
-          }
-        }
-      }
-    },
-    "plugins": {
-      "legend": {
-        "display": true,
-        "position": "top",
-        "labels": {
-          "font": {
-            "size": 12
-          }
-        }
-      },
-      "title": {
-        "display": true,
-        "text": "Key Project Impact",
-        "font": {
-          "size": 16
-        }
-      }
-    }
-  }
-}
-```
 
 ---
 
