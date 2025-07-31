@@ -3,7 +3,7 @@
 
 ## 🤖 Senior AI & Machine Learning Engineer | Innovator in AI Solutions
 
-I'm a Senior AI & Machine Learning Engineer at GEMESYS Gmbh, specializing in resource-efficient AI systems and 3D modeling. With 5+ years of experience, I design scalable PoCs that drive business impact. I'm passionate about deep learning, neuromorphic computing, and collaborative AI innovation.
+I'm a Senior AI & Machine Learning Engineer, specializing in resource-efficient AI systems and 3D modeling. With 5+ years of experience, I design scalable PoCs that drive business impact. I'm passionate about deep learning, neuromorphic computing, and collaborative AI innovation.
 
 ---
 
@@ -11,9 +11,10 @@ I'm a Senior AI & Machine Learning Engineer at GEMESYS Gmbh, specializing in res
 
 | Project | Description | Tech Stack | Impact |
 |---------|-------------|------------|--------|
-| [3DReconAI](https://github.com/Novalis133/3DReconAI) | Resource-efficient 3D reconstruction model for real-time applications. | PyTorch, OpenCV, CUDA | Reduced processing time by 40%. |
-| [LegalTextNLP](https://github.com/Novalis133/LegalTextNLP) | NLP pipeline for contract analysis, deployed at GEMESYS Gmbh. | Huggingface, Scikit-learn | Improved accuracy by 15%. |
-| [SNNVision](https://github.com/Novalis133/SNNVision) | Neuromorphic vision system for edge devices. | SnnTorch, ROS | Published at IEEE 2024. |
+| [RagAgent](https://github.com/novalis133/accent_analyzer_project.git) | Accent Analyzer Tool | Streamlit, Azure, FFmpeg |A Streamlit-based tool|
+| [RagAgent](https://github.com/novalis133/RagAgent.git) | RAG System API | MongoDB, Ollama |RAG creating platform-specific content based on user topics and preferences |
+| [Distributed Yolo](https://github.com/novalis133/distYolo.git) | A distributed system for real-time object detection using YOLO-World with Kafka-based video stream processing.|PyTorch, Kafka, Docker, License | Real Time Application. |
+| [SNNVision]((https://github.com/novalis133/Spiking_Neural_netowrk.git)) | Spiking Neural Network Implementations. | SnnTorch, ROS | Based on Neurorobotics Tutorials. |
 
 **Open-Source Contributions**:
 - Contributed to [Huggingface Transformers](https://github.com/huggingface/transformers) (3 PRs merged).
@@ -26,7 +27,7 @@ I'm a Senior AI & Machine Learning Engineer at GEMESYS Gmbh, specializing in res
 ---
 
 ### 📊 Project Impact Dashboard
-
+```chartjs
 {
   "type": "bar",
   "data": {
@@ -88,7 +89,7 @@ I'm a Senior AI & Machine Learning Engineer at GEMESYS Gmbh, specializing in res
     }
   }
 }
-
+```
 ---
 
 ### 🛠️ Skills
