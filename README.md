@@ -74,8 +74,8 @@ I'm a Senior AI & Machine Learning Engineer with over 5 years of experience in d
 <details>
   <summary>Click to View Stats</summary>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Novalis133&show_icons=true&theme=dark" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Novalis133&layout=compact&theme=dark" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Novalis133&show_icons=true&theme=dark&cache_bust=123" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Novalis133&layout=compact&theme=dark&cache_bust=123" alt="Top Languages" />
   </p>
 </details>
 
