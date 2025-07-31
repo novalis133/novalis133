@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "name": "Emotion Decoding with EEG",
+      "gain": 30,
+      "color": "green",
+      "labelColor": "2E7D32"
+    },
+    {
+      "name": "Smart Vision Systems",
+      "gain": 30,
+      "color": "blue",
+      "labelColor": "1976D2"
+    },
+    {
+      "name": "Multi-Agent DRL",
+      "gain": 20,
+      "color": "yellow",
+      "labelColor": "FFB300"
+    },
+    {
+      "name": "Accent Analyzer",
+      "gain": 25,
+      "color": "red",
+      "labelColor": "D32F2F"
+    }
+  ]
+}
