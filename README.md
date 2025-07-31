@@ -23,9 +23,9 @@ I'm a Senior AI & Machine Learning Engineer with over 5 years of experience in d
 
 | Project | Description | Tech Stack | Impact | Performance Gain |
 |---------|-------------|------------|--------|------------------|
-| [Smart Vision Systems](https://github.com/Novalis133/distYolo.git) | Developed end-to-end AI pipelines for automotive vision using YOLO-World and Swin-Transformer. | PyTorch, Kafka, Docker | Enabled real-time detection on edge GPUs.| ![Smart Vision Gain](https://img.shields.io/badge/Smart_Vision-30%25-blue?labelColor=1976D2) |
-| [Multi-Agent DRL](https://github.com/Novalis133) | Designed transformer-based multi-agent reinforcement learning for industrial agents at TRUMPF. | PyTorch, CUDA, ROS | Achieved 20% faster task completion.| ![Multi-Agent DRL Gain](https://img.shields.io/badge/Multi--Agent_DRL-20%25-yellow?labelColor=FFB300) |
-| [Accent Analyzer](https://github.com/Novalis133/accent_analyzer_project.git) | Built a Streamlit-based tool for English accent detection in videos. | Streamlit, Azure Speech, FFmpeg | Supported multiple platforms with high accuracy.| ![Accent Analyzer Gain](https://img.shields.io/badge/Accent_Analyzer-25%25-red?labelColor=D32F2F) |
+| [Smart Vision Systems](https://github.com/Novalis133/distYolo.git) | Developed end-to-end AI pipelines for automotive vision using YOLO-World and Swin-Transformer. | PyTorch, Kafka, Docker | Enabled real-time detection on edge GPUs.| ![Smart Vision Gain](https://img.shields.io/badge/Smart_Vision-98%25-blue?labelColor=1976D2) |
+| [Multi-Agent DRL](https://github.com/Novalis133) | Designed transformer-based multi-agent reinforcement learning for industrial agents at TRUMPF. | PyTorch, CUDA, ROS | Achieved 20% faster task completion.| ![Multi-Agent DRL Gain](https://img.shields.io/badge/Multi--Agent_DRL-88%25-yellow?labelColor=FFB300) |
+| [Accent Analyzer](https://github.com/Novalis133/accent_analyzer_project.git) | Built a Streamlit-based tool for English accent detection in videos. | Streamlit, Azure Speech, FFmpeg | Supported multiple platforms with high accuracy.| ![Accent Analyzer Gain](https://img.shields.io/badge/Accent_Analyzer-92%25-red?labelColor=D32F2F) |
 
 **Open-Source Contributions**:
 - Contributed to [Huggingface Transformers](https://github.com/huggingface/transformers) (3 PRs merged).
