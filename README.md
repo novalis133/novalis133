@@ -3,7 +3,7 @@
  
 ## 🤖 Senior AI & Machine Learning Engineer | Neuromorphic Computing & Automotive Vision Expert
 
-I'm a Senior AI & Machine Learning Engineer with over 5 years of experience in developing resource-efficient AI systems, automotive vision solutions, and neuromorphic computing applications. I optimize deep learning models for low-precision hardware and lead vision system deployments. Passionate about deep learning, spiking neural networks, and mentoring, I drive innovation in AI-driven solutions.
+I'm a Senior AI & Machine Learning Engineer with over 7 years of experience in developing resource-efficient AI systems, automotive vision solutions, and neuromorphic computing applications. I optimize deep learning models for low-precision hardware and lead vision system deployments. Passionate about deep learning, spiking neural networks, and mentoring, I drive innovation in AI-driven solutions.
 
 ---
 
