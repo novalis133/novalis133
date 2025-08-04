@@ -3,7 +3,7 @@
  
 ## 🤖 Senior AI & Machine Learning Engineer | Neuromorphic Computing & Automotive Vision Expert
 
-I'm a Senior AI & Machine Learning Engineer with over 5 years of experience in developing resource-efficient AI systems, automotive vision solutions, and neuromorphic computing applications. I optimize deep learning models for low-precision hardware and lead vision system deployments. Passionate about deep learning, spiking neural networks, and mentoring, I drive innovation in AI-driven solutions.
+I'm a Senior AI & Machine Learning Engineer with over 7 years of experience in developing resource-efficient AI systems, automotive vision solutions, and neuromorphic computing applications. I optimize deep learning models for low-precision hardware and lead vision system deployments. Passionate about deep learning, spiking neural networks, and mentoring, I drive innovation in AI-driven solutions.
 
 ---
 
@@ -28,8 +28,6 @@ I'm a Senior AI & Machine Learning Engineer with over 5 years of experience in d
 | [Accent Analyzer](https://github.com/Novalis133/accent_analyzer_project.git) | Built a Streamlit-based tool for English accent detection in videos. | Streamlit, Azure Speech, FFmpeg | Supported multiple platforms with high accuracy.| ![Accent Analyzer Gain](https://img.shields.io/badge/Accent_Analyzer-92%25-red?labelColor=D32F2F) |
 
 **Open-Source Contributions**:
-- Contributed to [Huggingface Transformers](https://github.com/huggingface/transformers) (3 PRs merged).
-- Maintained [OpenCV-Python](https://github.com/opencv/opencv-python) tutorials.
 
 **Certifications**:
 - Deep Learning Nanodegree (Udacity, 2021)
