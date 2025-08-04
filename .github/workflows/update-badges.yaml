@@ -1,7 +1,8 @@
+```yaml
+name: Update Project Impact Badges
+
 permissions:
   contents: write
-  
-name: Update Project Impact Badges
 
 on:
   schedule:
@@ -17,16 +18,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.8'
+          python-version: '3.10'
 
       - name: Install dependencies
         run: |
           pip install requests
+
+      - name: Verify project_metrics.json exists
+        run: |
+          if [ ! -f project_metrics.json ]; then
+            echo "Error: project_metrics.json not found"
+            exit 1
+          fi
 
       - name: Update badges
         run: |
@@ -34,10 +42,17 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Check for changes
+        id: check_changes
+        run: |
+          git diff --exit-code README.md || echo "changes=true" >> $GITHUB_OUTPUT
+
       - name: Commit changes
+        if: steps.check_changes.outputs.changes == 'true'
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
-          git commit -m "Update project impact badges" || echo "No changes to commit"
+          git commit -m "chore: update project impact badges"
           git push
+```
