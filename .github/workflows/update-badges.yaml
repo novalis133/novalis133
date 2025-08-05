@@ -1,4 +1,3 @@
-```yaml
 name: Update Project Impact Badges
 
 permissions:
@@ -92,4 +91,3 @@ jobs:
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
