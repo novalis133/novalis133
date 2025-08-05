@@ -55,6 +55,10 @@ jobs:
             echo "Error: project_metrics.json is not readable"
             exit 1
           fi
+          if [ ! -w README.md ]; then
+            echo "Error: README.md is not writable"
+            exit 1
+          fi
 
       - name: Debug project_metrics.json
         run: |
@@ -62,6 +66,8 @@ jobs:
           cat project_metrics.json || echo "Error: Failed to read project_metrics.json"
           echo "File size of project_metrics.json:"
           ls -l project_metrics.json || echo "Error: Failed to get file size"
+          echo "File permissions of project_metrics.json:"
+          ls -l project_metrics.json | awk '{print $1}' || echo "Error: Failed to get permissions"
           echo "JSON validation check:"
           python -c "import json; json.load(open('project_metrics.json'))" || echo "Error: JSON validation failed"
 
