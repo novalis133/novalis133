@@ -18,6 +18,12 @@
       "gain": 92,
       "color": "red",
       "labelColor": "D32F2F"
+    },
+    {
+      "name": "Neuron Models",
+      "gain": 85,
+      "color": "purple",
+      "labelColor": "6A1B9A"
     }
   ]
 }
