@@ -62,6 +62,8 @@ jobs:
           cat project_metrics.json || echo "Error: Failed to read project_metrics.json"
           echo "File size of project_metrics.json:"
           ls -l project_metrics.json || echo "Error: Failed to get file size"
+          echo "JSON validation check:"
+          python -c "import json; json.load(open('project_metrics.json'))" || echo "Error: JSON validation failed"
 
       - name: Update badges
         run: |
