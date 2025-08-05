@@ -51,11 +51,17 @@ jobs:
             echo "Error: update_badges.py not found"
             exit 1
           fi
+          if [ ! -r project_metrics.json ]; then
+            echo "Error: project_metrics.json is not readable"
+            exit 1
+          fi
 
       - name: Debug project_metrics.json
         run: |
           echo "Contents of project_metrics.json:"
           cat project_metrics.json || echo "Error: Failed to read project_metrics.json"
+          echo "File size of project_metrics.json:"
+          ls -l project_metrics.json || echo "Error: Failed to get file size"
 
       - name: Update badges
         run: |
