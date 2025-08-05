@@ -27,12 +27,21 @@ jobs:
 
       - name: Install dependencies
         run: |
+          python -m pip install --upgrade pip
           pip install requests
 
-      - name: Verify project_metrics.json exists
+      - name: Verify files exist
         run: |
           if [ ! -f project_metrics.json ]; then
             echo "Error: project_metrics.json not found"
+            exit 1
+          fi
+          if [ ! -f README.md ]; then
+            echo "Error: README.md not found"
+            exit 1
+          fi
+          if [ ! -f .github/scripts/update_badges.py ]; then
+            echo "Error: update_badges.py not found"
             exit 1
           fi
 
@@ -55,4 +64,6 @@ jobs:
           git add README.md
           git commit -m "chore: update project impact badges"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
