@@ -44,13 +44,12 @@ Explore my work in the `snn_implementations` directory, including:
 
 | Project | Performance Gain |
 |---------|------------------|
-| Emotion Decoding with EEG | ![Emotion Decoding with EEG Gain](https://img.shields.io/badge/Emotion_Decoding_with_EEG-30%25-green?labelColor=2E7D32) |
 | Smart Vision Systems | ![Smart Vision Systems Gain](https://img.shields.io/badge/Smart_Vision_Systems-98%25-blue?labelColor=1976D2) |
 | Multi-Agent DRL | ![Multi-Agent DRL Gain](https://img.shields.io/badge/Multi-Agent_DRL-88%25-yellow?labelColor=FFB300) |
 | Accent Analyzer | ![Accent Analyzer Gain](https://img.shields.io/badge/Accent_Analyzer-92%25-red?labelColor=D32F2F) |
 | Neuron Models | ![Neuron Models Gain](https://img.shields.io/badge/Neuron_Models-85%25-purple?labelColor=6A1B9A) |
 
-*Note*: Performance gains are updated daily via GitHub Actions based on `project_metrics.json`.
+*Note*: Performance gains are updated daily via GitHub Actions based on `project_metrics.json`. If badges fail to update, check the Actions tab for logs or contact me.
 
 ---
 
@@ -61,7 +60,6 @@ Explore my work in the `snn_implementations` directory, including:
 | [Smart Vision Systems](https://github.com/Novalis133/distYolo.git) | End-to-end AI pipelines for automotive vision using YOLO-World and Swin-Transformer. | PyTorch, Kafka, Docker | Enabled real-time detection on edge GPUs. |
 | [Multi-Agent DRL](https://github.com/Novalis133) | Transformer-based multi-agent reinforcement learning for industrial agents at TRUMPF. | PyTorch, CUDA, ROS | 20% faster task completion. |
 | [Accent Analyzer](https://github.com/Novalis133/accent_analyzer_project.git) | Streamlit-based tool for English accent detection in videos. | Streamlit, Azure Speech, FFmpeg | High-accuracy multi-platform support. |
-| [Emotion Decoding with EEG](https://github.com/Novalis133) | EEG-based emotion decoding using generative models and SNNs. | PyTorch, SNNTorch, CUDA | Improved emotion classification accuracy by 30%. |
 | [Neuron Models](snn_implementations/neuron_models/README.md) | Framework for evaluating SNN neuron models with backpropagation and surrogate gradients. | PyTorch, SNNTorch, Matplotlib | 85% accuracy on MNIST with optimized neuron models. |
 
 **Open-Source Contributions**:
