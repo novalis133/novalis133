@@ -1,6 +1,6 @@
 # Hello, I'm Osama Abdelaal 👋
 
-![Profile Banner](https://source.unsplash.com/800x200/?ai,machine-learning,robotics)  
+![Profile Banner](1641920341346.jfif)  
 *Senior AI & Machine Learning Engineer specializing in neuromorphic computing, automotive vision, and reinforcement learning.*
 
 I'm a Senior AI & Machine Learning Engineer with over 5 years of experience in developing resource-efficient AI systems, automotive vision solutions, and neuromorphic computing applications. I optimize deep learning models for low-precision hardware and lead vision system deployments. Passionate about spiking neural networks, computer vision, and mentoring, I drive innovation in AI-driven solutions.
@@ -45,11 +45,10 @@ Explore my work in the `snn_implementations` directory, including:
 | Project | Performance Gain |
 |---------|------------------|
 | Smart Vision Systems | ![Smart Vision Systems Gain](https://img.shields.io/badge/Smart_Vision_Systems-98%25-blue?labelColor=1976D2) |
-| Multi-Agent DRL | ![Multi-Agent DRL Gain](https://img.shields.io/badge/Multi-Agent_DRL-88%25-yellow?labelColor=FFB300) |
+| Multi Agent DRL | ![Multi-Agent DRL Gain](https://img.shields.io/badge/Multi_Agent_DRL-88%25-yellow?labelColor=FFB300) |
 | Accent Analyzer | ![Accent Analyzer Gain](https://img.shields.io/badge/Accent_Analyzer-92%25-red?labelColor=D32F2F) |
 | Neuron Models | ![Neuron Models Gain](https://img.shields.io/badge/Neuron_Models-85%25-purple?labelColor=6A1B9A) |
 
-*Note*: Performance gains are updated daily via GitHub Actions based on `project_metrics.json`. If badges fail to update, check the Actions tab for logs or contact me.
 
 ---
 
