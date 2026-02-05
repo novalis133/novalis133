@@ -1,8 +1,8 @@
-# Osama Abdelaal
+# Osama 
 
-**AI Engineer** — from low-level neural hardware to high-level agent systems.
+**AI Engineer** => from low-level neural hardware to high-level agent systems.
 
-I build resource-efficient AI. Over 5+ years I've shipped automotive vision pipelines, optimized models for edge GPUs, and published research on spiking neural networks. Now I'm channeling that systems-level thinking into **agentic AI and LLM tooling** — designing frameworks where autonomous agents reason, plan, and act reliably.
+I build resource-efficient AI. Over years I've shipped automotive vision pipelines, optimized models for edge GPUs, and published research on spiking neural networks. Now I'm channeling that systems-level thinking into **agentic AI and LLM tooling** — designing frameworks where autonomous agents reason, plan, and act reliably.
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.1+-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
@@ -16,7 +16,7 @@ I build resource-efficient AI. Over 5+ years I've shipped automotive vision pipe
 
 An agentic framework and set of libraries for building with large language models. Details, architecture docs, and initial code drops are on the way. Star or watch this repo to follow along.
 
-<!-- TODO: Replace this section with project name, description, and quickstart once ready -->
+<!-- TODO: project name, description, and quickstart once ready -->
 
 ---
 
