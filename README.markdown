@@ -48,7 +48,7 @@ My path through AI has been bottom-up: starting at the neuron level and working 
 
 ## Technical Stack
 
-**Languages** <=> Python, C++, CUDA
+**Languages** <==> Python, C++, CUDA
 
 **ML & DL** <=> PyTorch, TensorFlow, PyTorch Lightning, Hugging Face Transformers, SNNTorch, OpenCV
 
