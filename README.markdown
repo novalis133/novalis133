@@ -48,13 +48,13 @@ My path through AI has been bottom-up: starting at the neuron level and working 
 
 ## Technical Stack
 
-**Languages** — Python, C++, CUDA
+**Languages** <=> Python, C++, CUDA
 
-**ML & DL** — PyTorch, TensorFlow, PyTorch Lightning, Hugging Face Transformers, SNNTorch, OpenCV
+**ML & DL** <=> PyTorch, TensorFlow, PyTorch Lightning, Hugging Face Transformers, SNNTorch, OpenCV
 
-**Infrastructure** — Docker, CUDA, ROS, Apache Kafka, MLflow, NVIDIA Jetson
+**Infrastructure** <=> Docker, CUDA, ROS, Apache Kafka, MLflow, NVIDIA Jetson
 
-**Domains** — Deep Learning, Computer Vision, NLP, Neuromorphic Computing, Reinforcement Learning, Multi-Agent Systems, Generative AI
+**Domains** <=> Deep Learning, Computer Vision, NLP, Neuromorphic Computing, Reinforcement Learning, Multi-Agent Systems, Generative AI
 
 ---
 
