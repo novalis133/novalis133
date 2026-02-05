@@ -1,135 +1,74 @@
-# Hello, I'm Osama Abdelaal 👋
+# Osama Abdelaal
 
-![Profile Banner](1641920341346.jfif)  
-*Senior AI & Machine Learning Engineer specializing in neuromorphic computing, automotive vision, and reinforcement learning.*
+**AI Engineer** — from low-level neural hardware to high-level agent systems.
 
-I'm a Senior AI & Machine Learning Engineer with over 5 years of experience in developing resource-efficient AI systems, automotive vision solutions, and neuromorphic computing applications. I optimize deep learning models for low-precision hardware and lead vision system deployments. Passionate about spiking neural networks, computer vision, and mentoring, I drive innovation in AI-driven solutions.
+I build resource-efficient AI. Over 5+ years I've shipped automotive vision pipelines, optimized models for edge GPUs, and published research on spiking neural networks. Now I'm channeling that systems-level thinking into **agentic AI and LLM tooling** — designing frameworks where autonomous agents reason, plan, and act reliably.
 
-[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://www.python.org/) 
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.1+-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/) 
-[![SNNTorch](https://img.shields.io/badge/SNNTorch-0.7+-FF6F61)](https://snntorch.readthedocs.io/) 
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.1+-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 ---
 
-## 📚 Table of Contents
+## What I'm Working On
 
-- [About Me](#about-me)
-- [Project Impact Dashboard](#project-impact-dashboard)
-- [Key Projects](#key-projects)
-- [Publications](#publications)
-- [Awards](#awards)
-- [Skills](#skills)
-- [GitHub Stats](#github-stats)
-- [Contact](#contact)
+🚧 **New open-source project — coming soon.**
+
+An agentic framework and set of libraries for building with large language models. Details, architecture docs, and initial code drops are on the way. Star or watch this repo to follow along.
+
+<!-- TODO: Replace this section with project name, description, and quickstart once ready -->
 
 ---
 
-## 🤖 About Me
+## Background
 
-I specialize in:
-- **Neuromorphic Computing**: Developing energy-efficient Spiking Neural Networks (SNNs) for tasks like MNIST classification and robotic control.
-- **Computer Vision**: Building real-time vision systems for automotive applications using YOLO and transformers.
-- **Reinforcement Learning**: Designing multi-agent systems and policy gradient methods for industrial automation.
-- **Mentorship**: Guiding teams in AI model optimization and deployment.
+My path through AI has been bottom-up: starting at the neuron level and working toward full autonomous systems.
 
-Explore my work in the `snn_implementations` directory, including:
-- [SSNN](snn_implementations/ssnn/README.md): Supervised SNNs for classification tasks.
-- [RSNN](snn_implementations/rsnn/README.md): Reinforcement learning with SNNs.
-- [Neuron Models](snn_implementations/neuron_models/README.md): Evaluation of SNN neuron models.
+**Neuromorphic Computing** — Designed energy-efficient spiking neural networks for classification and robotic control using surrogate gradient methods and SNNTorch. Published research on SNN-based policy learning for manipulation tasks.
 
----
+**Automotive Vision** — Built end-to-end detection pipelines with YOLO-World and Swin-Transformer, deployed on NVIDIA Jetson edge hardware via Kafka-based streaming architectures.
 
-## 📊 Project Impact Dashboard
+**Multi-Agent Reinforcement Learning** — Developed transformer-based multi-agent RL systems at TRUMPF for industrial automation, achieving measurable gains in task completion speed.
 
-| Project | Performance Gain |
-|---------|------------------|
-| Smart Vision Systems | ![Smart Vision Systems Gain](https://img.shields.io/badge/Smart_Vision_Systems-98%25-blue?labelColor=1976D2) |
-| Multi Agent DRL | ![Multi-Agent DRL Gain](https://img.shields.io/badge/Multi_Agent_DRL-88%25-yellow?labelColor=FFB300) |
-| Accent Analyzer | ![Accent Analyzer Gain](https://img.shields.io/badge/Accent_Analyzer-92%25-red?labelColor=D32F2F) |
-| Neuron Models | ![Neuron Models Gain](https://img.shields.io/badge/Neuron_Models-85%25-purple?labelColor=6A1B9A) |
-
+**Signal Processing** — Placed in two IEEE hackathons building EEG-driven systems: emotion decoding with generative models and a brain-controlled driving interface.
 
 ---
 
-## 🏆 Key Projects
+## Selected Publications
 
-| Project | Description | Tech Stack | Impact |
-|---------|-------------|------------|--------|
-| [Smart Vision Systems](https://github.com/Novalis133/distYolo.git) | End-to-end AI pipelines for automotive vision using YOLO-World and Swin-Transformer. | PyTorch, Kafka, Docker | Enabled real-time detection on edge GPUs. |
-| [Multi-Agent DRL](https://github.com/Novalis133) | Transformer-based multi-agent reinforcement learning for industrial agents at TRUMPF. | PyTorch, CUDA, ROS | 20% faster task completion. |
-| [Accent Analyzer](https://github.com/Novalis133/accent_analyzer_project.git) | Streamlit-based tool for English accent detection in videos. | Streamlit, Azure Speech, FFmpeg | High-accuracy multi-platform support. |
-| [Neuron Models](snn_implementations/neuron_models/README.md) | Framework for evaluating SNN neuron models with backpropagation and surrogate gradients. | PyTorch, SNNTorch, Matplotlib | 85% accuracy on MNIST with optimized neuron models. |
+- **Parametric Study for Lightweight Monocular Depth Estimation Deep Neural Network**
+  Comparative analysis of lightweight depth estimation on resource-constrained devices.
+  [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Gqa7DC8AAAAJ&citation_for_view=Gqa7DC8AAAAJ:u-x6o8ySG0sC)
 
-**Open-Source Contributions**:
-- Contributed to [Huggingface Transformers](https://github.com/huggingface/transformers) (3 PRs merged).
-- Maintained [OpenCV-Python](https://github.com/opencv/opencv-python) tutorials.
+- **Policy Learning with Spiking Neural Networks for a Robot Manipulation Task**
+  Energy-efficient SNNs for robotic manipulation in neuromorphic environments.
+  [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Gqa7DC8AAAAJ&citation_for_view=Gqa7DC8AAAAJ:d1gkVwhDpl0C)
 
 ---
 
-## 📄 Publications
+## Technical Stack
 
-- **Parametric Study for Lightweight Monocular Depth Estimation Deep Neural Network**  
-  Comparative analysis of lightweight models for depth estimation on resource-constrained devices. [Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Gqa7DC8AAAAJ&citation_for_view=Gqa7DC8AAAAJ:u-x6o8ySG0sC)
-- **Policy Learning with Spiking Neural Networks for a Robot Manipulation Task**  
-  Explored energy-efficient SNNs for robotic manipulation in neuromorphic environments. [Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Gqa7DC8AAAAJ&citation_for_view=Gqa7DC8AAAAJ:d1gkVwhDpl0C)
+**Languages** — Python, C++, CUDA
 
----
+**ML & DL** — PyTorch, TensorFlow, PyTorch Lightning, Hugging Face Transformers, SNNTorch, OpenCV
 
-## 🥇 Awards
+**Infrastructure** — Docker, CUDA, ROS, Apache Kafka, MLflow, NVIDIA Jetson
 
-- **IEEE SB TUC Hackathon, 3rd Place** (Sep 2023)  
-  Developed EEG-based emotion decoding using generative models.
-- **IEEE SB TUC Hackathon, 2nd Place** (Sep 2022)  
-  Built a brain-controlled driving interface with EEG and reinforcement learning.
+**Domains** — Deep Learning, Computer Vision, NLP, Neuromorphic Computing, Reinforcement Learning, Multi-Agent Systems, Generative AI
 
 ---
 
-## 🛠️ Skills
+## Past Projects
 
-- **Programming**: Python, C++  
-  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-  ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-- **Frameworks & Libraries**: PyTorch, TensorFlow, Keras, OpenCV, Huggingface Transformers, SNNTorch, PyTorch Lightning  
-  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
-  ![SNNTorch](https://img.shields.io/badge/SNNTorch-0.7+-FF6F61)
-- **Tools**: Docker, CUDA, Git, ROS, Pandas, MLflow, Apache Kafka, NVIDIA Jetson
-- **Domains**: Deep Learning, Computer Vision, NLP, Generative AI, Neuromorphic Computing, Multi-Agent Systems, EEG Signal Processing
-- **Robotics & Middleware**: ROS, PyBullet, Brain-Computer Interfaces
+| Project | What it does | Stack |
+|---------|-------------|-------|
+| [Smart Vision Systems](https://github.com/Novalis133/distYolo.git) | Real-time automotive detection on edge GPUs | PyTorch, Kafka, Docker |
+| [Accent Analyzer](https://github.com/Novalis133/accent_analyzer_project.git) | English accent detection from video | Streamlit, Azure Speech, FFmpeg |
 
-**Certifications**:
-- Deep Learning Nanodegree (Udacity, 2021)
-- Azure Certified Machine Learning (2023)
+**Open-source contributions**: Hugging Face Transformers (3 PRs merged), OpenCV-Python tutorials.
 
 ---
 
-## 📈 GitHub Stats
+## Connect
 
-<details>
-  <summary>Click to View Stats</summary>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Novalis133&show_icons=true&theme=dark" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Novalis133&layout=compact&theme=dark" alt="Top Languages" />
-  </p>
-</details>
-
-<details>
-  <summary>Click to View Activity Graph</summary>
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Novalis133&bg_color=1a1b27&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="Activity Graph" />
-  </p>
-</details>
-
----
-
-## 📫 Contact
-
-- **LinkedIn**: [Osama](https://www.linkedin.com/in/osamat339669/) ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)
-- **Blog**: [Medium](https://medium.com/@osama1339669) ![Medium](https://img.shields.io/badge/Medium-Read-black?logo=medium)
-- **Email**: osama1339669@gmail.com
-- **GitHub**: [Novalis133](https://github.com/Novalis133)
-
----
-
-Feel free to explore my repositories and connect to discuss AI-driven innovations!
+[LinkedIn](https://www.linkedin.com/in/osamat339669/) · [Medium](https://medium.com/@osama1339669) · [Email](mailto:osama1339669@gmail.com)
